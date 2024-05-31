@@ -49,5 +49,7 @@ patreon.com/user?u=76198322
     
 ## My profile
 
-[![github](https://img.shields.io/badge/Github_Profile-111?style=for-the-badge&logo=github&logoColor=white)](https://twitter.com/)
+[![github](https://img.shields.io/badge/Github_Profile-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/010Mak)
+
+
 
