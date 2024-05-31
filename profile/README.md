@@ -37,8 +37,7 @@ wide variety of uses.
 A: No. All MG code is independently done by Mak. However,
 suggestions are welcomed and listened to.
 #### Q: How can I support MG?
-A: You can support by subscribing to my Patreon:
-[(patreon.com/user?u=76198322)]
+A: You can support by subscribing to my Patreon: ````patreon.com/user?u=76198322````
 ## Website Access
 
 
