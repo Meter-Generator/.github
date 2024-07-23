@@ -3,7 +3,7 @@
 
 
 
-## Meter Generator is a tool that allows anyone (with internet access of course) to make meter faces for any task they desire. 
+## Meter Generator is a non-for-profit organization that develops tools for various electronic industrial applications. Our primary site is used to generate decals for graphical computer interfaces for online nuclear reactor simulators, weather stations, mobile mesonets, and more. 
 
 
 ## Contributions
