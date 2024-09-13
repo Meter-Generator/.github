@@ -39,7 +39,7 @@ Meter Generator is a non-profit organization that develops tools for various ele
 
 <details>
   <summary>Q: How can I support Meter Generator?</summary>
-  A: You can support us by subscribing to our Patreon: https://www.patreon.com/MeterGenerator
+  A: You can support us by subscribing to our Patreon: https://patreon.com/user?u=76198322
 </details>
 
 ## Website Access
